@@ -1,4 +1,0 @@
-**Wazuh SIEM on Proxmox**
-
-**Description**
-Built a SIEM environment using Wazuh inside Proxmox. Designed to collect, analyze, and visualize security events in a virtualized lab.
