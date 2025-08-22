@@ -21,9 +21,16 @@ Currently experimenting with Wazuh inside Proxmox, integrated with Active Direct
 
 <h2> 🌱 What I’m Learning </h2>  
 
-- Security operations & SIEM monitoring  
-- Threat detection & incident response  
-- Virtualization and system hardening  
+- Security operations & SIEM monitoring
+- Threat detection & incident response
+- Virtualization and system hardening
+- Cyber attack simulation & penetration testing
+- Windows & Linux system administration
+- Network scanning & vulnerability assessment
+- Log analysis & alert management
+- Endpoint security deployment & management
+- MITRE ATT&CK framework application
+- Network configuration, subnetting, and traffic monitoring 
 
 ---
 
