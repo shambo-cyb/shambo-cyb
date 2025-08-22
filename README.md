@@ -9,7 +9,7 @@ Currently experimenting with Wazuh inside Proxmox, integrated with Active Direct
 
 <h2> 🔭 Current Projects </h2>  
 
-# Wazuh SIEM on Proxmox 🛡️
+## Wazuh SIEM on Proxmox 🛡️
 
 **Overview:**  
 Built a complete Security Information and Event Management (SIEM) environment by deploying **Wazuh** inside **Proxmox** on an **Ubuntu Server**.
