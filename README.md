@@ -10,12 +10,12 @@ Currently experimenting with Wazuh inside Proxmox, integrated with Active Direct
 <h2> 🔭 Current Projects </h2>  
 
 **Wazuh SIEM on Proxmox**  
-  Built a SIEM environment by deploying Wazuh inside Proxmox on a base Ubuntu Server.  
-  Designed to collect, analyze, and visualize security events in a virtualized lab.  
+  - Built a SIEM environment by deploying Wazuh inside Proxmox on a base Ubuntu Server.  
+  - Designed to collect, analyze, and visualize security events in a virtualized lab.  
 
 **Active Directory Security Lab**  
-  Configured an AD domain environment with user/role-based permission assignments.  
-  Focused on access control, authentication, and exploring incident response detection use cases. 
+  - Configured an AD domain environment with user/role-based permission assignments.  
+  - Focused on access control, authentication, and exploring incident response detection use cases. 
 
 ---
 
