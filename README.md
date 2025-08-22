@@ -24,6 +24,7 @@ Built a complete Security Information and Event Management (SIEM) environment by
 ## Active Directory Security Lab 🔐
 
 **Overview:**  
+
 Configured a full **Active Directory (AD)** domain environment to explore security, access control, and incident response scenarios.
 
 **Highlights:**  
@@ -31,6 +32,18 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 - Tested **authentication mechanisms** and security policies.  
 - Explored real-world **incident detection and response** use cases.  
 - Developed an understanding of how AD integrates with monitoring tools like Wazuh.
+
+## Cisco ASA Firewall Implementation and Analysis 🔐
+
+**Overview:**
+
+In this project, I configured and analyzed a Cisco ASA firewall in a simulated enterprise network environment. The lab focused on implementing and verifying security policies, network address translation (NAT), and access control lists (ACLs) to manage and secure network traffic across multiple zones.
+
+**Highlights:**
+- Implemented NAT rules to allow secure communication between inside, outside, and a DMZ network.
+- Verified firewall logs and ACLs to ensure proper traffic filtering and access control.
+- Explored traffic management policies to protect services from potential attacks.
+- Developed a practical understanding of how firewalls enforce network security and maintain a secure perimeter.
 
 ---
 ## Key Skills & Expertise
