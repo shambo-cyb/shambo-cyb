@@ -33,7 +33,7 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 - Developed an understanding of how AD integrates with monitoring tools like Wazuh.
 
 ---
-### Key Skills & Expertise
+## Key Skills & Expertise
 
 - 🛡️ **Security operations & SIEM monitoring**  
 - 🚨 **Threat detection & incident response**  
