@@ -21,7 +21,7 @@ Built a complete Security Information and Event Management (SIEM) environment by
 
 ---
 
-# Active Directory Security Lab 🔐
+## Active Directory Security Lab 🔐
 
 **Overview:**  
 Configured a full **Active Directory (AD)** domain environment to explore security, access control, and incident response scenarios.
@@ -33,7 +33,7 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 - Developed an understanding of how AD integrates with monitoring tools like Wazuh.
 
 ---
-### 🔹 Key Skills & Expertise
+### Key Skills & Expertise
 
 - 🛡️ **Security operations & SIEM monitoring**  
 - 🚨 **Threat detection & incident response**  
