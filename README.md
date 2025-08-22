@@ -45,6 +45,18 @@ In this project, I configured and analyzed a Cisco ASA firewall in a simulated e
 - Explored traffic management policies to protect services from potential attacks.
 - Developed a practical understanding of how firewalls enforce network security and maintain a secure perimeter.
 
+## Python Port Scanner 🔍
+**Overview:**
+
+Developed a Python-based port scanner to explore network security, open ports, and potential vulnerabilities across multiple targets. The lab emphasizes hands-on experience in scanning IP addresses, hostnames, and ranges, while integrating reporting and analysis for practical cybersecurity learning.
+
+Highlights:
+- Scanned single or multiple targets with quick or custom port ranges.
+- Identified open ports and flagged known vulnerabilities on critical services like FTP, Telnet, SMB, RDP, and HTTP.
+- Generated detailed reports in text, CSV, and structured formats for analysis.
+- Leveraged multithreading for efficient scanning and faster results.
+- Gained practical experience in reconnaissance, vulnerability assessment, and network monitoring within controlled environments.
+
 ---
 ## Key Skills & Expertise
 
@@ -58,6 +70,7 @@ In this project, I configured and analyzed a Cisco ASA firewall in a simulated e
 - 🛠️ **Endpoint security deployment & management**  
 - 🧩 **MITRE ATT&CK framework application**  
 - 🌐 **Network configuration, subnetting, and traffic monitoring**
+
 ---
 
 <h2> 🤝 Connect with Me </h2>  
