@@ -33,6 +33,19 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 - Developed an understanding of how AD integrates with monitoring tools like Wazuh.
 
 ---
+### 🔹 Key Skills & Expertise
+
+- 🛡️ **Security operations & SIEM monitoring**  
+- 🚨 **Threat detection & incident response**  
+- 🖥️ **Virtualization and system hardening**  
+- 🕵️ **Cyber attack simulation & penetration testing**  
+- 💻 **Windows & Linux system administration**  
+- 🌐 **Network scanning & vulnerability assessment**  
+- 📊 **Log analysis & alert management**  
+- 🛠️ **Endpoint security deployment & management**  
+- 🧩 **MITRE ATT&CK framework application**  
+- 🌐 **Network configuration, subnetting, and traffic monitoring**
+---
 
 <h2> 🤝 Connect with Me </h2>  
 
