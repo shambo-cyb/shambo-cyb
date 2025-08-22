@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Shambo Banerjee </h2>  
+<h1> Hi there, I'm Shambo Banerjee </h1>  
 
 🎓 Cybersecurity Student at Fanshawe College | 💻 IT Support Experience | 🔐 Security Enthusiast  
 
@@ -7,7 +7,7 @@ Currently experimenting with Wazuh inside Proxmox, integrated with Active Direct
 
 ---
 
-<h2> 🔭 Current Projects </h2>  
+<h1> 🔭 Current Projects </h1>  
 
 ## Wazuh SIEM on Proxmox 🛡️
 
