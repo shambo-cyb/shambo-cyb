@@ -31,7 +31,7 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 - Implemented **user and role-based permissions** for controlled access.  
 - Tested **authentication mechanisms** and security policies.  
 - Explored real-world **incident detection and response** use cases.  
-- Developed an understanding of how AD integrates with monitoring tools like Wazuh.
+- Developed an understanding of how AD integrated with app restrictions and account management 
 
 ## Cisco ASA Firewall Implementation and Analysis 🔐
 
