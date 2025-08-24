@@ -19,7 +19,6 @@ Built a complete Security Information and Event Management (SIEM) environment by
 - Monitored virtualized lab systems to detect threats and anomalous behavior.  
 - Hands-on experience with SIEM dashboards, alerts, and reporting.  
 
----
 
 ## Active Directory Security Lab 🔐
 
@@ -32,6 +31,8 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 - Tested **authentication mechanisms** and security policies.  
 - Explored real-world **incident detection and response** use cases.  
 - Developed an understanding of how AD integrated with app restrictions and account management.
+
+
 ## Cisco ASA Firewall Implementation and Analysis 🔐
 
 **Overview:**
@@ -43,6 +44,7 @@ In this project, I configured and analyzed a Cisco ASA firewall in a simulated e
 - Verified firewall logs and ACLs to ensure proper traffic filtering and access control.
 - Explored traffic management policies to protect services from potential attacks.
 - Developed a practical understanding of how firewalls enforce network security and maintain a secure perimeter.
+
 
 ## Python Port Scanner 🔍
 **Overview:**
@@ -56,7 +58,19 @@ Highlights:
 - Leveraged multithreading for efficient scanning and faster results.
 - Gained practical experience in reconnaissance, vulnerability assessment, and network monitoring within controlled environments.
 
+
+## Network Security Monitoring using Security Onion 🖥️
+**Overview:**
+
+Built a simulated lab environment with Security Onion, Kali Linux, and Metasploitable to monitor, detect, and analyze real-world cyber attacks.
+
+Key Features:
+- Demonstrated SQL injection attack and observed Security Onion alerts.
+- Performed DNS data exfiltration and successfully decoded hidden files.
+- Hands-on analysis of attack traffic using Sguil, Wireshark, and TCP streams.
+
 ---
+
 ## Key Skills & Expertise
 
 - 🛡️ **Security operations & SIEM monitoring**  
