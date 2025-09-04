@@ -2,8 +2,7 @@
 
 🎓 Cybersecurity Student at Fanshawe College | 💻 IT Support Experience | 🔐 Security Enthusiast  
 
-I enjoy building security labs, working with SIEM tools, and exploring ways to defend systems from threats.  
-Currently experimenting with Wazuh inside Proxmox, integrated with Active Directory and role-based permissions.  
+I enjoy building security labs, working with SIEM tools, and exploring ways to defend threats.
 
 ---
 
