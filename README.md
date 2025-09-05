@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Shambo Banerjee </h1>  
 
-🎓 Cybersecurity Student at Fanshawe College | 💻 IT Support Experience | 🔐 Security Enthusiast  
+🎓 Cybersecurity Student at Fanshawe College (3.60 CGPA) | 💻 IT Support Experience | 🔐 Security Enthusiast  
 
 I enjoy building security labs, working with SIEM tools, and exploring ways to defend threats.
 
