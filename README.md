@@ -10,6 +10,9 @@ I enjoy building security labs, working with SIEM tools, and exploring ways to d
 
 ## Wazuh SIEM on Proxmox 🛡️
 
+**Repository Link**
+- https://github.com/shambo-cyb/Wazuh-SIEM-on-Proxmox
+
 **Overview:**  
 Built a complete Security Information and Event Management (SIEM) environment by deploying **Wazuh** inside **Proxmox** on an **Ubuntu Server**.
 
