@@ -12,7 +12,7 @@ I enjoy building security labs, working with SIEM tools, and exploring ways to d
 
 <h1> 🔭 Current Projects </h1>  
 
-## Wazuh SIEM on Proxmox 🛡️ ★ ★ ★ ★ ★ 
+## Wazuh SIEM on Proxmox 🛡️ (★ ★ ★ ★ ★)
 
 **Repository Link**
 - https://github.com/shambo-cyb/Wazuh-SIEM-on-Proxmox
@@ -23,7 +23,7 @@ I enjoy building security labs, working with SIEM tools, and exploring ways to d
 - Hands-on experience with SIEM dashboards, alerts, and reporting.  
 
 
-## Active Directory Security Lab 🔐 ★ ★ ★ ★ ★
+## Active Directory Security Lab 🔐 (★ ★ ★ ★ ★)
 
 **Repositiory Link**
 - https://github.com/shambo-cyb/Active-Directory-Security-Lab
@@ -34,7 +34,7 @@ I enjoy building security labs, working with SIEM tools, and exploring ways to d
 - Explored real-world **incident detection and response** use cases.  
 - Developed an understanding of how AD integrated with app restrictions and account management.
 
-## Network Security Monitoring using Security Onion 🖥️ ★ ★ ★ ★ ★ 
+## Network Security Monitoring using Security Onion 🖥️ (★ ★ ★ ★ ★) 
 
 **Repository Link**
 - https://github.com/shambo-cyb/Network_Security_Monitoring_Using_Security_Onion
@@ -45,7 +45,7 @@ I enjoy building security labs, working with SIEM tools, and exploring ways to d
 - Hands-on analysis of attack traffic using Sguil, Wireshark, and TCP streams.
 
 
-## Cisco ASA Firewall Implementation and Analysis 🔐 ★ ★ ★ ★ 
+## Cisco ASA Firewall Implementation and Analysis 🔐 (★ ★ ★ ★) 
 
 **Repository Link**
 - https://github.com/shambo-cyb/ASA-Traffic-Management-Lab
@@ -57,7 +57,7 @@ I enjoy building security labs, working with SIEM tools, and exploring ways to d
 - Developed a practical understanding of how firewalls enforce network security and maintain a secure perimeter.
 
 
-## Python Port Scanner 🔍 ★ ★ ★ 
+## Python Port Scanner 🔍 (★ ★ ★) 
 
 **Repository Link**
 - https://github.com/shambo-cyb/Port-Scanner-With-Python
