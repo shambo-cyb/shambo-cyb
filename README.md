@@ -63,11 +63,8 @@ I enjoy building security labs, working with SIEM tools, and exploring ways to d
 - https://github.com/shambo-cyb/Port-Scanner-With-Python
 
 **Key Features:**
-- Scanned single or multiple targets with quick or custom port ranges.
-- Identified open ports and flagged known vulnerabilities on critical services like FTP, Telnet, SMB, RDP, and HTTP.
-- Generated detailed reports in text, CSV, and structured formats for analysis.
-- Leveraged multithreading for efficient scanning and faster results.
-- Gained practical experience in reconnaissance, vulnerability assessment, and network monitoring within controlled environments.
+- Scanned single or multiple targets using quick or custom port ranges, identifying open ports and flagging known vulnerabilities on critical services such as FTP, Telnet, SMB, RDP, and HTTP. Generated detailed reports in text, CSV, and structured formats for analysis.
+- Leveraged multithreading for efficient scanning, gaining practical experience in reconnaissance, vulnerability assessment, and network monitoring within controlled environments.
 
 
 ---
