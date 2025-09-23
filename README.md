@@ -41,6 +41,20 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 - Explored real-world **incident detection and response** use cases.  
 - Developed an understanding of how AD integrated with app restrictions and account management.
 
+## Network Security Monitoring using Security Onion 🖥️
+
+**Repository Link**
+- https://github.com/shambo-cyb/Network_Security_Monitoring_Using_Security_Onion
+
+**Overview:**
+
+Built a simulated lab environment with Security Onion, Kali Linux, and Metasploitable to monitor, detect, and analyze real-world cyber attacks.
+
+Key Features:
+- Demonstrated SQL injection attack and observed Security Onion alerts.
+- Performed DNS data exfiltration and successfully decoded hidden files.
+- Hands-on analysis of attack traffic using Sguil, Wireshark, and TCP streams.
+
 
 ## Cisco ASA Firewall Implementation and Analysis 🔐
 
@@ -74,20 +88,6 @@ Highlights:
 - Leveraged multithreading for efficient scanning and faster results.
 - Gained practical experience in reconnaissance, vulnerability assessment, and network monitoring within controlled environments.
 
-
-## Network Security Monitoring using Security Onion 🖥️
-
-**Repository Link**
-- https://github.com/shambo-cyb/Network_Security_Monitoring_Using_Security_Onion
-
-**Overview:**
-
-Built a simulated lab environment with Security Onion, Kali Linux, and Metasploitable to monitor, detect, and analyze real-world cyber attacks.
-
-Key Features:
-- Demonstrated SQL injection attack and observed Security Onion alerts.
-- Performed DNS data exfiltration and successfully decoded hidden files.
-- Hands-on analysis of attack traffic using Sguil, Wireshark, and TCP streams.
 
 ---
 
