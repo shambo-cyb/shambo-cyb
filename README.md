@@ -17,9 +17,6 @@ I enjoy building security labs, working with SIEM tools, and exploring ways to d
 **Repository Link**
 - https://github.com/shambo-cyb/Wazuh-SIEM-on-Proxmox
 
-**Overview:**  
-Built a complete Security Information and Event Management (SIEM) environment by deploying **Wazuh** inside **Proxmox** on an **Ubuntu Server**.
-
 **Key Features:**  
 - Centralized collection, analysis, and visualization of security events.  
 - Monitored virtualized lab systems to detect threats and anomalous behavior.  
@@ -31,11 +28,7 @@ Built a complete Security Information and Event Management (SIEM) environment by
 **Repositiory Link**
 - https://github.com/shambo-cyb/Active-Directory-Security-Lab
 
-**Overview:**  
-
-Configured a full **Active Directory (AD)** domain environment to explore security, access control, and incident response scenarios.
-
-**Highlights:**  
+**Key Features:**  
 - Implemented **user and role-based permissions** for controlled access.  
 - Tested **authentication mechanisms** and security policies.  
 - Explored real-world **incident detection and response** use cases.  
@@ -46,11 +39,7 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 **Repository Link**
 - https://github.com/shambo-cyb/Network_Security_Monitoring_Using_Security_Onion
 
-**Overview:**
-
-Built a simulated lab environment with Security Onion, Kali Linux, and Metasploitable to monitor, detect, and analyze real-world cyber attacks.
-
-Key Features:
+**Key Features:**
 - Demonstrated SQL injection attack and observed Security Onion alerts.
 - Performed DNS data exfiltration and successfully decoded hidden files.
 - Hands-on analysis of attack traffic using Sguil, Wireshark, and TCP streams.
@@ -61,11 +50,7 @@ Key Features:
 **Repository Link**
 - https://github.com/shambo-cyb/ASA-Traffic-Management-Lab
 
-**Overview:**
-
-In this project, I configured and analyzed a Cisco ASA firewall in a simulated enterprise network environment. The lab focused on implementing and verifying security policies, network address translation (NAT), and access control lists (ACLs) to manage and secure network traffic across multiple zones.
-
-**Highlights:**
+**Key Features:**
 - Implemented NAT rules to allow secure communication between inside, outside, and a DMZ network.
 - Verified firewall logs and ACLs to ensure proper traffic filtering and access control.
 - Explored traffic management policies to protect services from potential attacks.
@@ -77,11 +62,7 @@ In this project, I configured and analyzed a Cisco ASA firewall in a simulated e
 **Repository Link**
 - https://github.com/shambo-cyb/Port-Scanner-With-Python
 
-**Overview:**
-
-Developed a Python-based port scanner to explore network security, open ports, and potential vulnerabilities across multiple targets. The lab emphasizes hands-on experience in scanning IP addresses, hostnames, and ranges, while integrating reporting and analysis for practical cybersecurity learning.
-
-Highlights:
+**Key Features:**
 - Scanned single or multiple targets with quick or custom port ranges.
 - Identified open ports and flagged known vulnerabilities on critical services like FTP, Telnet, SMB, RDP, and HTTP.
 - Generated detailed reports in text, CSV, and structured formats for analysis.
