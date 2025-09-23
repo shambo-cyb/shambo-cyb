@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Shambo Banerjee </h1>  
 
-🎓 Cybersecurity Student at Fanshawe College (3.60 CGPA) | 💻 IT Support Experience | 🔐 Security Enthusiast  |  ISC2 CC Certified 
+🎓 Cybersecurity Student at Fanshawe College (3.60 CGPA) | 💻 IT Support Experience | 🔐 Security Enthusiast  |  ISC2 CC Certified [![Credly Badge](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/aacae671-c46c-4a48-b778-63c72e455636/public_url)
 
 I enjoy building security labs, working with SIEM tools, and exploring ways to defend threats.
 
