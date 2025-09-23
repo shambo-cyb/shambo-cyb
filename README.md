@@ -68,6 +68,10 @@ Highlights:
 
 
 ## Network Security Monitoring using Security Onion 🖥️
+
+**Repository Link**
+- https://github.com/shambo-cyb/Network_Security_Monitoring_Using_Security_Onion
+
 **Overview:**
 
 Built a simulated lab environment with Security Onion, Kali Linux, and Metasploitable to monitor, detect, and analyze real-world cyber attacks.
