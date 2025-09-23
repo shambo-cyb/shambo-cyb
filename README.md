@@ -40,6 +40,9 @@ Configured a full **Active Directory (AD)** domain environment to explore securi
 
 ## Cisco ASA Firewall Implementation and Analysis 🔐
 
+**Repository Link**
+- https://github.com/shambo-cyb/ASA-Traffic-Management-Lab
+
 **Overview:**
 
 In this project, I configured and analyzed a Cisco ASA firewall in a simulated enterprise network environment. The lab focused on implementing and verifying security policies, network address translation (NAT), and access control lists (ACLs) to manage and secure network traffic across multiple zones.
