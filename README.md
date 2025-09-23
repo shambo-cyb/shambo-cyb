@@ -55,6 +55,10 @@ In this project, I configured and analyzed a Cisco ASA firewall in a simulated e
 
 
 ## Python Port Scanner 🔍
+
+**Repository Link**
+- https://github.com/shambo-cyb/Port-Scanner-With-Python
+
 **Overview:**
 
 Developed a Python-based port scanner to explore network security, open ports, and potential vulnerabilities across multiple targets. The lab emphasizes hands-on experience in scanning IP addresses, hostnames, and ranges, while integrating reporting and analysis for practical cybersecurity learning.
